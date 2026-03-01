@@ -4,4 +4,4 @@ I'm currently a sophomore in Cornell University studying Computer Science and pu
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredrojas08)](https://github.com/jaredrojas08/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredrojas08)](https://github.com/anuraghazra/github-readme-stats)

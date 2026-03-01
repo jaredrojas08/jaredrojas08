@@ -10,6 +10,8 @@ I'm currently a sophomore in Cornell University studying Computer Science and pu
 - What I enjoy: Playing SSBU and playing volleyball
 - Favorite Animal: AXOLOTLS!
 
+# WIP
+
 <!---
 ---
 ## 💻 Tech Stack:

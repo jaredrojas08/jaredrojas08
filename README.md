@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Jared Rojas: game programmer, Cornell CS and Game Design 2028, with an animated ASCII axolotl" width="100%">
+# Hi, I'm Jared Rojas
 
 Computer Science junior at Cornell with a Game Design minor (May 2028). I want to be a game programmer: I write gameplay systems in Unity and C#, and build web tools when something annoys me enough.
 

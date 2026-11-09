@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="axolotl-dark.svg">
-    <img src="axolotl-light.svg" alt="ASCII art of a pink axolotl" width="700">
+    <img src="axolotl-light.svg" alt="Animated ASCII art of a pink axolotl with twinkling sparkles" width="700">
   </picture>
 </p>
 

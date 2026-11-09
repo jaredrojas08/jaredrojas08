@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="330" viewBox="0 0 840 330" role="img" aria-label="Jared Rojas: game programmer, Cornell CS and Game Design 2028. An animated ASCII axolotl waves its gills beside a terminal-style info card.">
+<title>Jared Rojas</title>
+<style>
+  text { font-family: Menlo, Consolas, 'DejaVu Sans Mono', 'Courier New', monospace; font-size: 15px; white-space: pre; }
+  .gillA { animation: gillA 1.6s steps(1) infinite; }
+  .gillB { animation: gillB 1.6s steps(1) infinite; }
+  .eyesOpen { animation: blinkOpen 5s steps(1) infinite; }
+  .eyesShut { animation: blinkShut 5s steps(1) infinite; }
+  .bubble { opacity: 0; animation: rise 4.2s linear infinite; }
+  .cursor { animation: cursor 1.1s steps(1) infinite; }
+  @keyframes gillA { 0% { opacity: 1 } 50% { opacity: 0 } }
+  @keyframes gillB { 0% { opacity: 0 } 50% { opacity: 1 } }
+  @keyframes blinkOpen { 0% { opacity: 1 } 94% { opacity: 0 } 97% { opacity: 1 } }
+  @keyframes blinkShut { 0% { opacity: 0 } 94% { opacity: 1 } 97% { opacity: 0 } }
+  @keyframes rise {
+    0% { opacity: 0; transform: translateY(0) }
+    15% { opacity: .9 }
+    100% { opacity: 0; transform: translateY(-150px) }
+  }
+  @keyframes cursor { 0% { opacity: 1 } 50% { opacity: 0 } }
+  @media (prefers-reduced-motion: reduce) {
+    .gillA, .gillB, .eyesOpen, .eyesShut, .bubble, .cursor { animation: none; }
+    .gillB, .eyesShut, .bubble { opacity: 0; }
+  }
+</style>
+<rect x="1" y="1" width="838" height="328" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="44" cy="22" r="6" fill="#febc2e"/><circle cx="64" cy="22" r="6" fill="#28c840"/>
+<text x="420" y="27" fill="#8b949e" font-size="13" text-anchor="middle">jared@cornell: ~</text>
+<line x1="1" y1="42" x2="839" y2="42" stroke="#30363d" stroke-width="1"/>
+<g class="gillA" fill="#ff5fa2">
+<text x="34" y="92">  \\\\                    ////  </text>
+<text x="34" y="111">   \\\\                  ////   </text>
+<text x="34" y="130">==\\\\                    ////==</text>
+<text x="34" y="149"> ====                      ==== </text>
+<text x="34" y="168">==////                    \\\\==</text>
+<text x="34" y="187">   ////                  \\\\   </text>
+<text x="34" y="206">  ////                    \\\\  </text>
+</g>
+<g class="gillB" fill="#ff5fa2">
+<text x="34" y="92">   \\\\                  ////   </text>
+<text x="34" y="111">  \\\\                    ////  </text>
+<text x="34" y="130">=-\\\\                    ////-=</text>
+<text x="34" y="149">-=-=                        =-=-</text>
+<text x="34" y="168">=-////                    \\\\-=</text>
+<text x="34" y="187">  ////                    \\\\  </text>
+<text x="34" y="206">   ////                  \\\\   </text>
+</g>
+<g fill="#ffb3d1">
+<text x="34" y="92">           .--------.           </text>
+<text x="34" y="111">          /          \          </text>
+<text x="34" y="130">         /            \         </text>
+<text x="34" y="149">        |              |        </text>
+<text x="34" y="168">        |  <tspan fill="#ff7b72">*</tspan>  \__/  <tspan fill="#ff7b72">*</tspan>  |        </text>
+<text x="34" y="187">         \            /         </text>
+<text x="34" y="206">          &#x27;-.______.-&#x27;          </text>
+<text x="34" y="225">           /|      |\           </text>
+<text x="34" y="244">          (_|      |_)          </text>
+</g>
+<g class="eyesOpen" fill="#f0f6fc">
+<text x="34" y="149">            o      o            </text>
+</g>
+<g class="eyesShut" fill="#f0f6fc">
+<text x="34" y="149">            -      -            </text>
+</g>
+<text class="bubble" x="342" y="240" font-size="13" fill="#79c0ff" style="animation-delay:0s">o</text>
+<text class="bubble" x="356" y="240" font-size="9" fill="#79c0ff" style="animation-delay:1.4s">o</text>
+<text class="bubble" x="336" y="240" font-size="11" fill="#79c0ff" style="animation-delay:2.8s">o</text>
+<text x="385" y="84"><tspan fill="#ff7eb6" font-weight="bold">jared</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff" font-weight="bold">cornell</tspan></text>
+<text x="385" y="104" fill="#30363d">-------------</text>
+<text x="385" y="130"><tspan fill="#ff7eb6" font-weight="bold">role</tspan><tspan fill="#8b949e">:</tspan><tspan x="457" fill="#c9d1d9">game programmer</tspan></text>
+<text x="385" y="153"><tspan fill="#ff7eb6" font-weight="bold">school</tspan><tspan fill="#8b949e">:</tspan><tspan x="457" fill="#c9d1d9">Cornell CS + Game Design &#x27;28</tspan></text>
+<text x="385" y="176"><tspan fill="#ff7eb6" font-weight="bold">now</tspan><tspan fill="#8b949e">:</tspan><tspan x="457" fill="#c9d1d9">The Veil Sur @ DGA Studios</tspan></text>
+<text x="385" y="199"><tspan fill="#ff7eb6" font-weight="bold">prev</tspan><tspan fill="#8b949e">:</tspan><tspan x="457" fill="#c9d1d9">Beastwoe Games (Nexus Rush)</tspan></text>
+<text x="385" y="222"><tspan fill="#ff7eb6" font-weight="bold">stack</tspan><tspan fill="#8b949e">:</tspan><tspan x="457" fill="#c9d1d9">Unity, C#, TypeScript, React, Python</tspan></text>
+<text x="385" y="245"><tspan fill="#ff7eb6" font-weight="bold">likes</tspan><tspan fill="#8b949e">:</tspan><tspan x="457" fill="#c9d1d9">axolotls, Smash Ultimate, volleyball</tspan></text>
+<rect x="385" y="264" width="22" height="12" rx="2" fill="#484f58"/>
+<rect x="411" y="264" width="22" height="12" rx="2" fill="#ff7b72"/>
+<rect x="437" y="264" width="22" height="12" rx="2" fill="#7ee787"/>
+<rect x="463" y="264" width="22" height="12" rx="2" fill="#e3b341"/>
+<rect x="489" y="264" width="22" height="12" rx="2" fill="#79c0ff"/>
+<rect x="515" y="264" width="22" height="12" rx="2" fill="#ff7eb6"/>
+<rect x="541" y="264" width="22" height="12" rx="2" fill="#a5d6ff"/>
+<rect x="567" y="264" width="22" height="12" rx="2" fill="#f0f6fc"/>
+<text x="34" y="306"><tspan fill="#7ee787">jared@cornell</tspan><tspan fill="#8b949e">:~$ </tspan><tspan class="cursor" fill="#c9d1d9">_</tspan></text>
+</svg>

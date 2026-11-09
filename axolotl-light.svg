@@ -78,12 +78,16 @@
 <line x1="675.9" y1="346.9" x2="1217.7" y2="346.9" stroke="#e8a3ba" stroke-dasharray="2 4"/>
 <text class="info" x="675.9" y="372.9" fill="#c2416f" font-weight="bold">game programmer</text>
 <text class="info" x="1217.7" y="372.9" fill="#7a4b5a" text-anchor="end">Cornell CS + Game Design '28</text>
+<line x1="812.4" y1="368.7" x2="971.8" y2="368.7" stroke="#7a4b5a" stroke-opacity="0.5" stroke-width="2" stroke-linecap="round" stroke-dasharray="0 6"/>
 <text class="info" x="675.9" y="399.5" fill="#c2416f" font-weight="bold">now</text>
 <text class="info" x="1217.7" y="399.5" fill="#7a4b5a" text-anchor="end">The Veil Sur @ DGA Studios</text>
+<line x1="711.2" y1="395.3" x2="988.6" y2="395.3" stroke="#7a4b5a" stroke-opacity="0.5" stroke-width="2" stroke-linecap="round" stroke-dasharray="0 6"/>
 <text class="info" x="675.9" y="426.1" fill="#c2416f" font-weight="bold">before</text>
 <text class="info" x="1217.7" y="426.1" fill="#7a4b5a" text-anchor="end">Beastwoe Games, Nexus Rush</text>
+<line x1="736.5" y1="421.9" x2="988.6" y2="421.9" stroke="#7a4b5a" stroke-opacity="0.5" stroke-width="2" stroke-linecap="round" stroke-dasharray="0 6"/>
 <text class="info" x="675.9" y="452.7" fill="#c2416f" font-weight="bold">stack</text>
 <text class="info" x="1217.7" y="452.7" fill="#7a4b5a" text-anchor="end">Unity, C#, TypeScript, React, Python</text>
+<line x1="728.1" y1="448.5" x2="904.3" y2="448.5" stroke="#7a4b5a" stroke-opacity="0.5" stroke-width="2" stroke-linecap="round" stroke-dasharray="0 6"/>
 <g class="float">
 <text y="65.44"><tspan x="411.18" fill="#984f62">_</tspan><tspan x="417.20" fill="#8d4456">q</tspan><tspan x="423.22" fill="#993d57">8</tspan><tspan x="429.24" fill="#9d3a56">8</tspan></text>
 <text class="m" style="--g:-0.5px;--gx:0.25px;--t:0.0px" y="65.44"><tspan x="435.26" fill="#a33957">M</tspan></text>

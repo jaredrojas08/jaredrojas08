@@ -1,13 +1,9 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="axolotl-dark.svg">
-    <img src="axolotl-light.svg" alt="Animated ASCII art of a pink axolotl with twinkling sparkles" width="700">
+    <img src="axolotl-light.svg" alt="Jared Rojas, game programmer, Cornell CS and Game Design 2028. Animated ASCII art of a pink axolotl with twinkling sparkles." width="100%">
   </picture>
 </p>
-
-# Hi, I'm Jared Rojas
-
-Computer Science junior at Cornell with a Game Design minor (May 2028). I want to be a game programmer: I write gameplay systems in Unity and C#, and build web tools when something annoys me enough.
 
 [Portfolio](https://www.jaredrojas.com/) · [LinkedIn](https://www.linkedin.com/in/jared-rojas-179991292) · jaredmrojas@gmail.com
 
